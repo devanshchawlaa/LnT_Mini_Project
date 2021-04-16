@@ -21,13 +21,13 @@ This project includes the entire upgraded feature required for the computerizati
 
 
 
-#### **SWOT Analysis**
+## **SWOT Analysis**
 
 ![Swot analysis](https://user-images.githubusercontent.com/82470968/115017005-81543680-9ed3-11eb-997b-ce6075ec042d.JPG)
 
 
 
-#### **Folder Terminology**
+## **Folder Terminology**
 
 Folder -	Description
 
@@ -46,14 +46,14 @@ Folder -	Description
 
 
 
-#### **Challenges Faced and How Was It Overcome**
+## **Challenges Faced and How Was It Overcome**
 
 New to the git environment, had to go through some learning resources provided to us.
 
 
 
 
-#### **Learning Resources**
+## **Learning Resources**
 
 **1.** markdownCheatsheet
 
