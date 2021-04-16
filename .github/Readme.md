@@ -6,9 +6,9 @@ This project intends to introduce more user friendliness in the various activiti
 
 The main objective of our project is providing the different typed of customers facility, the main objective of this system is to find out the actual customer service. Etc.
 
- It should fulfill almost all the process requirements of any Bank.
+****-> It should fulfill almost all the process requirements of any Bank.**
 
- It should increase the productivity of bank by utilizing the working hours more and more, with minimum manpower.
+**-> It should increase the productivity of bank by utilizing the working hours more and more, with minimum manpower.****
 
 This project includes the entire upgraded feature required for the computerization banking system. This system is very easy to use, so that any user can use without getting pre-knowledge about this. Its very much user friendly and meet almost all daily working process requirements. This system is completely GUI based and can be use by mouse and as well as keyboard. This system is melded in such a way that has got all features to upgrade without making much change in existing components.
 
@@ -20,18 +20,18 @@ This project includes the entire upgraded feature required for the computerizati
 
 Folder -	Description
 
-1_Requirements - Research and Documentation
+**1_Requirements -** Research and Documentation
 
-2_Design - Design related Documents
+**2_Design -** Design related Documents
 
-3_Implementation -	All Codes lines and stuff
+**3_Implementation -**	All Codes lines and stuff
 
-4_Test_plan	- Test Planning
+**4_Test_plan	-** Test Planning
 
-5_Build -	.exe builut on Windows OS
+**5_Build -**	.exe builut on Windows OS
 
-6_Screenshots	- screenshots of the application
-
+**6_Screenshots	-** screenshots of the application
+ 
 
 **Challenges Faced and How Was It Overcome**
 
@@ -40,14 +40,14 @@ New to the git environment, had to go through some learning resources provided t
 
 **Learning Resources**
 
-markdownCheatsheet
+**1.** markdownCheatsheet
 
-markdownBasics
+**2.** markdownBasics
 
-git inspector
+**3.** git inspector
 
-github workflow
+**4.** github workflow
 
-geeksforgeeks
+**5.** geeksforgeeks
 
-tutorialpoint
+**6.** tutorialpoint
