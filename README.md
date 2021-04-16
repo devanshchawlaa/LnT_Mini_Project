@@ -1,1 +1,2 @@
-https://github.com/devanshchawlaa/LnT_Mini_Project/blob/main/Welcome%20to%20the%20BANK%20MANAGEMENT%20SYSTEM!.png
+![Welcome to the BANK MANAGEMENT SYSTEM!](https://user-images.githubusercontent.com/82470968/115008295-94153e00-9ec8-11eb-9236-876439d5cbe8.png)
+
