@@ -4,3 +4,4 @@
 
 ## **SWOT Analysis**
 
+![Swot analysis](https://user-images.githubusercontent.com/82470968/115017005-81543680-9ed3-11eb-997b-ce6075ec042d.JPG)
