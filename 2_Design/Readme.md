@@ -7,6 +7,7 @@ The development process should not continue until the objectives of all prior ph
 System development life cycle is a phased approach to analysis and design to ensure that systems are best developed.
 The system development life cycle can be divided into seven phases as shown in fig
 
+https://github.com/devanshchawlaa/LnT_Mini_Project/blob/main/2_Design/Software%20Develpment%20Life%20Cycle.JPG 
 
 # **Design-**
 
