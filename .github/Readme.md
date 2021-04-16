@@ -1,8 +1,15 @@
+#                                    :moneybag:               **BANK MANAGEMENT SYSTEM**  :moneybag:
+#                                    **_-Devansh Chawla_**  
+
 ![Welcome to the BANK MANAGEMENT SYSTEM!](https://user-images.githubusercontent.com/82470968/115016906-54078880-9ed3-11eb-8364-bee250f1da29.png)
 
 A computer based management system is designed to handle all the primary information required to calculate monthly statements of customer account which include monthly statement of any month. Separate database is maintained to handle all the details required for the correct statement calculation and generation.
 
+
+
 This project intends to introduce more user friendliness in the various activities such as record updation, maintenance, and searching. The searching of record has been made quite simple as all the details of the customer can be obtained by simply keying in the identification or account number of that customer. Similarly, record maintenance and updation can also be accomplished by using the account number with all the details being automatically generated. These details are also being promptly automatically updated in the master file thus keeping the record absolutely up-to-date.
+
+
 
 The main objective of our project is providing the different typed of customers facility, the main objective of this system is to find out the actual customer service. Etc.
 
@@ -14,13 +21,13 @@ This project includes the entire upgraded feature required for the computerizati
 
 
 
-**SWOT Analysis-**
+#### **SWOT Analysis**
 
 ![Swot analysis](https://user-images.githubusercontent.com/82470968/115017005-81543680-9ed3-11eb-997b-ce6075ec042d.JPG)
 
 
 
-**Folder Terminology**
+#### **Folder Terminology**
 
 Folder -	Description
 
@@ -39,14 +46,14 @@ Folder -	Description
 
 
 
-**Challenges Faced and How Was It Overcome**
+#### **Challenges Faced and How Was It Overcome**
 
 New to the git environment, had to go through some learning resources provided to us.
 
 
 
 
-**Learning Resources**
+#### **Learning Resources**
 
 **1.** markdownCheatsheet
 
