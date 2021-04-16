@@ -21,10 +21,15 @@ This project includes the entire upgraded feature required for the computerizati
 Folder -	Description
 
 1_Requirements	- Research and Documentation
+
 2_Design	- Design related Documents
+
 3_Implementation -	All Codes lines and stuff
+
 4_Test_plan	Test Planning
+
 5_Build	.exe builut on Windows OS
+
 6_Screenshots	screenshots of the application
 
 **Challenges Faced and How Was It Overcome**
@@ -34,8 +39,13 @@ New to the git environment, had to go through some learning resources provided t
 **Learning Resources**
 
 markdownCheatsheet
+
 markdownBasics
+
 git inspector
+
 github workflow
+
 geeksforgeeks
+
 tutorialpoint
