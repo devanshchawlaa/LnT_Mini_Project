@@ -6,8 +6,13 @@ This project intends to introduce more user friendliness in the various activiti
 
 The main objective of our project is providing the different typed of customers facility, the main objective of this system is to find out the actual customer service. Etc.
 
-It should fulfill almost all the process requirements of any Bank.
+ It should fulfill almost all the process requirements of any Bank.
 
-It should increase the productivity of bank by utilizing the working hours more and more, with minimum manpower.
+ It should increase the productivity of bank by utilizing the working hours more and more, with minimum manpower.
 
 This project includes the entire upgraded feature required for the computerization banking system. This system is very easy to use, so that any user can use without getting pre-knowledge about this. Its very much user friendly and meet almost all daily working process requirements. This system is completely GUI based and can be use by mouse and as well as keyboard. This system is melded in such a way that has got all features to upgrade without making much change in existing components.
+
+**SWOT Analysis-**
+
+![Swot analysis](https://user-images.githubusercontent.com/82470968/115009391-e1de7600-9ec9-11eb-819e-ebb124f5692a.JPG)
+
